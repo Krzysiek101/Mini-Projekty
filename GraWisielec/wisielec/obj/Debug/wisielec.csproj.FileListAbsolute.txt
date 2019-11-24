@@ -1,0 +1,10 @@
+C:\C#\GraWisielec\wisielec\bin\Debug\wisielec.exe.config
+C:\C#\GraWisielec\wisielec\bin\Debug\wisielec.exe
+C:\C#\GraWisielec\wisielec\bin\Debug\wisielec.pdb
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.csprojAssemblyReference.cache
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.Form1.resources
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.Properties.Resources.resources
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.csproj.GenerateResource.cache
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.csproj.CoreCompileInputs.cache
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.exe
+C:\C#\GraWisielec\wisielec\obj\Debug\wisielec.pdb
